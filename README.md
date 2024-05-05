@@ -1,8 +1,6 @@
 # PAR<sup>2</sup>Net: End-to-end Panoramic Image Reflection Removal (TPAMI 2023)
 
----
-
-### Network architecture
+## Network architecture
 
 ![fig_arch](./imgs/pipeline.jpg)
 
