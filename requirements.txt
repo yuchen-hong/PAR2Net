@@ -1,0 +1,4 @@
+opencv-contrib-python==3.4.2.16
+opencv-python==3.4.2.16
+torch==1.10.1+cu111
+torchvision==0.11.2
